@@ -6,11 +6,9 @@ from datetime import datetime
 
 
 def ping_host(ip):
-  # تحديد نوع النظام لضبط أمر البينغ (Windows يختلف عن Linux/Mac)
   param = "-n" if platform.system().lower() == "windows" else "-c"
   command = ["ping", param, "1", "-w", "1000", str(ip)]
 
-  # تنفيذ أمر البينغ وإخفاء المخرجات الزائدة
   response = subprocess.call(
       command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
   )
@@ -27,7 +25,6 @@ def run_ping_sweeper(subnet_cidr):
   net = ipaddress.ip_network(subnet_cidr, strict=False)
   active_hosts = []
 
-  # المرور على كل الأجهزة المتاحة في الشبكة
   for ip in net.hosts():
     print(f"[*] Scanning: {ip}...", end="\r")
     if ping_host(ip):
