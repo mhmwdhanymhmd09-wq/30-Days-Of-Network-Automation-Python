@@ -8,7 +8,7 @@ A structured 30-day journey focusing on building network automation scripts, inf
 
 | Day | Project Name | Status | Link |
 | :--- | :--- | :---: | :--- |
-| Day 01 | Subnet Calculator | Completed | [View](./Day-01-Subnet-Calculator) |
+| Day 01 | Subnet Calculator | Completed | [View](./Day01-Subnet-Calculator) |
 | Day 02 | Ping Sweeper | - | - |
 | Day 03 | Port Scanner | - | - |
 | Day 04 | MAC Address Vendor Lookup | - | - |
