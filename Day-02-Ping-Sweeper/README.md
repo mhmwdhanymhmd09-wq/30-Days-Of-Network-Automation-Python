@@ -17,3 +17,15 @@ A Python-based utility tool designed to scan a local network subnet and discover
 3. Run the script using the command:
    ```bash
    python ping_sweeper.py
+## Example Output
+```text
+==================================================
+ Network Ping Sweeper Started for: 192.168.1.0/24
+ Time: 2026-10-30 21:34:33
+==================================================
+[+] Active Host Found: 192.168.1.1
+[+] Active Host Found: 192.168.1.100
+[+] Active Host Found: 192.168.1.104
+==================================================
+ Scan Completed! Total Active Hosts: 3
+==================================================
