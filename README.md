@@ -11,8 +11,7 @@ A structured 30-day journey focusing on building network automation scripts, inf
 | Day 01 | Subnet Calculator | Completed | [View](./Day01-Subnet-Calculator) |
 | Day 02 | Ping Sweeper | Completed | [View](./Day-02-Ping-Sweeper) |
 | Day 03 | Port Scanner | Completed | [View](./Day-03-Port-Scanner) |
-| Day 04 | MAC Address Vendor Lookup | - | - |
-| Day 05 | IP Location Lookup | - | - |
+| Day 04 | MAC Address Vendor Lookup | Completed | [View](./Day-04-MAC-Vendor-Lookup) || Day 05 | IP Location Lookup | - | - |
 | Day 06 | IP to Binary / Hex Converter | - | - |
 | Day 07 | Bandwidth & Latency Logger | - | - |
 
