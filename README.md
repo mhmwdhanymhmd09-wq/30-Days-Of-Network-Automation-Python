@@ -14,7 +14,7 @@ A structured 30-day journey focusing on building network automation scripts, inf
 | Day 04 | MAC Address Vendor Lookup | Completed | [View](./Day-04-MAC-Vendor-Lookup) |
 | Day 05 | IP Geolocation Lookup Utility | Completed | [View](Day-05-IP-Location-Lookup/) |
 | Day 06 | IP to Binary / Hex Converter | Completed | [View](Day-06-IP-Converter) |
-| Day 07 | Bandwidth & Latency Logger | - | - |
+| Day 07 | Bandwidth & Latency Logger | Completed | [View](Day-07-Bandwidth-Latency-Logger) |
 
 ---
 
