@@ -22,7 +22,7 @@ A structured 30-day journey focusing on building network automation scripts, inf
 
 | Day | Project Name | Status | Link |
 | :--- | :--- | :---: | :--- |
-| Day 08 | SSH Login Test | - | - |
+| Day 08 | SSH Login Test | Completed | [View](./Day-08-SSH-Login-Test) |
 | Day 09 | Show Command Execution | - | - |
 | Day 10 | Single Device Backup Config | - | - |
 | Day 11 | Multi-Device Automated Backup | - | - |
